@@ -1,0 +1,24 @@
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\bin\Debug\EmpPostRepository.dll.config
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\bin\Debug\EmpPostRepository.dll
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\bin\Debug\EmpPostRepository.pdb
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.dll
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.xml
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.csproj.AssemblyReference.cache
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.csproj.CoreCompileInputs.cache
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.csproj.CopyComplete
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.dll
+C:\Users\mgirukala\Desktop\Capstone project\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.pdb
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\bin\Debug\EmpPostRepository.dll.config
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\bin\Debug\EmpPostRepository.dll
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\bin\Debug\EmpPostRepository.pdb
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.dll
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.xml
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.csproj.AssemblyReference.cache
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.csproj.CoreCompileInputs.cache
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.csproj.CopyComplete
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.dll
+E:\Complete\Complete\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.pdb
